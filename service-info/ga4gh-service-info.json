@@ -8,7 +8,7 @@
   {
     "type": {
       "group": "org.ga4gh",
-      "artifact": "service-registry"
+      "artifact": "drs"
     }
   },
   {
@@ -20,7 +20,13 @@
   {
     "type": {
       "group": "org.ga4gh",
-      "artifact": "wes"
+      "artifact": "service-registry"
+    }
+  },
+  {
+    "type": {
+      "group": "org.ga4gh",
+      "artifact": "tes"
     }
   },
   {
@@ -32,13 +38,7 @@
   {
     "type": {
       "group": "org.ga4gh",
-      "artifact": "drs"
-    }
-  },
-  {
-    "type": {
-      "group": "org.ga4gh",
-      "artifact": "tes"
+      "artifact": "wes"
     }
   }
 ]
